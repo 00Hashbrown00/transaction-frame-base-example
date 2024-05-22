@@ -12,12 +12,12 @@ const description =
 const ogImageUrl = `${hostUrl}/og-image.gif`;
 
 export default function Home() {
-  const router = useRouter();
+  //const router = useRouter();
 
-  useEffect(() => {
-    router.push("https://blog.thirdweb.com/guides/farcaster-transaction-frame");
-  }, [router]);
-
+//  useEffect(() => {
+  //  router.push("https://0xprimordia.xyz");
+ // }, [router]);
+//
   return (
     <Fragment>
       <NextSeo
