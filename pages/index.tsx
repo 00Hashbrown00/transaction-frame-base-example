@@ -9,7 +9,7 @@ const title = "Transaction Farcaster Frame on Base | thirdweb";
 const description =
   "This is an example transaction frame on Base for users to mint an NFT or perform an onchain transaction, directly on Farcaster. Get started with thirdweb.";
 
-const ogImageUrl = `${hostUrl}/og-image.png`;
+const ogImageUrl = `${hostUrl}/og-image.gif`;
 
 export default function Home() {
   const router = useRouter();
